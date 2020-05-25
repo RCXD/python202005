@@ -1,3 +1,5 @@
 python 1일차 수업 내용입니다.
 
 까만 화면에서 jupyter notebook --generate-config를 실행한다.
+
+C:\Users\<사용자ID>\.jupyter 폴더에 쥬피터 노트북 설정이 있다.
